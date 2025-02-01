@@ -10,6 +10,7 @@ This thing makes a city name syllable by syllable, with a choice from 23 languag
 Installation:
 1. Clone the repository: git clone https://github.com/Nat7672/city-name-generator
 2. Run the application: python main.py
+OR just run the city name generator.exe
 
 Usage:
 (to start from 0)
