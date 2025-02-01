@@ -5,7 +5,7 @@
 \____/_/\__/\__, /  /_/ /_/\__,_/_/ /_/ /_/\___/   \__, /\___/_/ /_/\___/_/   \__,_/\__/\____/_/     
            /____/                                 /____/                                             
 
-This thing makes the 
+This thing makes a city name syllable by syllable, with a choice from 23 languages. None of the names mean anything, it's just phonetic.
 
 Installation:
 1. Clone the repository: git clone https://github.com/Nat7672/city-name-generator
