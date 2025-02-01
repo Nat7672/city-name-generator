@@ -5,15 +5,21 @@
 \____/_/\__/\__, /  /_/ /_/\__,_/_/ /_/ /_/\___/   \__, /\___/_/ /_/\___/_/   \__,_/\__/\____/_/     
            /____/                                 /____/                                             
 
-Description:
-This project is a tool to simplify task management. It allows users to create, organize, and track tasks efficiently.
+This thing makes the 
 
 Installation:
 1. Clone the repository: git clone https://github.com/Nat7672/city-name-generator
-2. Install dependencies: pip install -r requirements.txt
-3. Run the application: python main.py
+2. Run the application: python main.py
 
 Usage:
+(to start from 0)
+- Run getting_cities.py
+- Run getting_latin_words.py
+- Run hyphenation.py
+- Run setup_for_stats.py
+- Run stats.py
+(to start generating)
+- Run main.py
 - Pick what language the city's name will sound like in the combo box
 - Click the generate button
 
